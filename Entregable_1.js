@@ -52,13 +52,11 @@ const Manager = new productManager();
 Manager.addProduct();
 Manager.getproducts();
 Manager.addProduct();
-Manager.getproducts();
 Manager.getProductById(1);
 Manager.getProductById(2);
-Manager.getproducts();
 
 
 
-//validar que no se repita el campo CODE 
-// subirlo a un repositorio y enviar el enlace.
+
+
 
